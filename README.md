@@ -41,13 +41,13 @@ Here are some ideas to get you started:
 
 <div align="start">
   <!-- Clickable Animated Header -->
-  <a href="https://koeuk.sinctuze.info" target="_blank">
+  <!-- <a href="https://koeuk.sinctuze.info" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=00000000&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+Not+Available">
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=FFFFFF00&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+koeuk.sinctuze.info">
       <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=FFFFFF00&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+koeuk.sinctuze.info" alt="Portfolio">
     </picture>
-  </a>
+  </a> -->
 
   <!-- Dynamic Years Badge -->
   ![Experience](https://img.shields.io/badge/Code_Experience-2023--2025-brightgreen?style=flat&logo=javascript)
