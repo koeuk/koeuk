@@ -1,124 +1,131 @@
-<!-- ## Hi there 👋
-
 <!--
-**koeuk/koeuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  GitHub Profile README
+  @koeuk
 -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&weight=700&pause=1000&center=true&width=600&lines=Hello+There!+I'm+Koeuk+%F0%9F%99%8F&color=FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&weight=700&pause=1000&center=true&width=600&lines=Hello+There!+I'm+koeuk+%F0%9F%99%8F&color=000000">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&weight=700&pause=1000&center=true&width=600&lines=Hello+There!+I'm+Koeuk+%F0%9F%99%8F" alt="Animated typing text">
-  </picture>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=700&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello+There!+I'm+Koeuk+%F0%9F%91%8B;Full-Stack+Developer;Building+Modern+Web+Applications"
+    alt="Typing SVG"
+  />
 </p>
 
-#
+<p align="center">
+  <a href="https://github.com/koeuk">
+    <img src="https://komarev.com/ghpvc/?username=koeuk&label=Profile%20Views&color=brightgreen&style=flat" />
+  </a>
+  <img src="https://img.shields.io/badge/Code%20Experience-2023--Present-blue?style=flat&logo=github" />
+</p>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png">
-    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px" style="animation: float 4s ease-in-out infinite">
-  </picture>
-  <span style="font-size: 24px; font-weight: bold;">Welcome to My Digital Space</span>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png">
-    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="45px" style="animation: float 4s ease-in-out infinite">
-  </picture>
-</div>
+---
 
-<div align="start">
-  <!-- Clickable Animated Header -->
-  <!-- <a href="https://koeuk.sinctuze.info" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=00000000&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+Not+Available">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=FFFFFF00&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+koeuk.sinctuze.info">
-      <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=2500&pause=500&color=FFA500&background=FFFFFF00&width=500&height=50&lines=Full-Stack+Developer+%7C;Portfolio%3A+koeuk.sinctuze.info" alt="Portfolio">
-    </picture>
-  </a> -->
+## 👨‍💻 About Me
 
-  <!-- Dynamic Years Badge -->
-  ![Experience](https://img.shields.io/badge/Code_Experience-2023--2025-brightgreen?style=flat&logo=javascript)
+I'm a **Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications.
 
-  <!-- GitHub Stats Cards -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
-    <a href="https://github.com/koeuk" target="_blank">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=koeuk&show_icons=true&theme=radical&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=koeuk&show_icons=true&theme=default&border_color=dddddd&border_radius=10">
-        <img src="https://github-readme-stats.vercel.app/api?username=koeuk&show_icons=true&theme=default&border_color=dddddd&border_radius=10" height="165" alt="GitHub Stats">
-      </picture>
-    </a>
-    <!-- Top Languages -->
-    <a href="https://github.com/koeuk?tab=repositories" target="_blank">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=koeuk&layout=compact&theme=radical&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=koeuk&layout=compact&theme=default&border_color=dddddd&border_radius=10">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koeuk&layout=compact&theme=default&border_color=dddddd&border_radius=10" alt="Top Languages">
-      </picture>
-    </a>
-  </div>
-</div>
+- 💻 Experienced with **Laravel, Vue.js, Nuxt.js, Node.js & NestJS**
+- ⚛️ Building applications with **React.js & Next.js**
+- 🗄️ Working with **MySQL & PostgreSQL**
+- 🎨 Interested in **UI/UX and clean frontend architecture**
+- 🚀 Passionate about learning new technologies
+- 📚 Currently studying **Software Engineering**
 
-<!-- Activity Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=koeuk&theme=react-dark&hide_border=true&area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=koeuk&theme=github-light&border_color=dddddd&border_radius=10&area=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koeuk&theme=github-light&border_color=dddddd&border_radius=10&area=true" alt="Contribution Graph">
-</picture>
+---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### **🌐 Frontend & Frameworks**  
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](https://vuejs.org)
-[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)](https://nuxt.com)
-[![Vuetify](https://img.shields.io/badge/Vuetify-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![ShadcnVue.js](https://img.shields.io/badge/Shadcn-000000?style=flat&logo=nextdotjs&logoColor=white)](https://ui.shadcn.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)](https://sass-lang.com)
+### 🌐 Frontend
 
-<!-- ### **🎨 Animation & 3D**  
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-C43BAD?style=flat&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)](https://threejs.org)
-[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)](https://greensock.com/gsap/) -->
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+</p>
 
-### **⚙️ Backend**  
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+### 🎨 UI & CSS
 
-### **🗃️ Databases**  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
-<!-- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org) -->
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+</p>
 
-### **🛠️ Tools & Design**  
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)](https://www.canva.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
-[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev)
-<!-- [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)](https://webpack.js.org) -->
+### ⚙️ Backend
 
-## 🔗 Connect With Me
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge)](https://koeuk.sinctuze.info)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roeurnkaki)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koeuk) -->
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white" />
+</p>
 
+### 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=koeuk&show_icons=true&hide_border=true&theme=transparent"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=koeuk&layout=compact&hide_border=true&theme=transparent"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=koeuk&hide_border=true&theme=transparent"
+    height="170"
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=koeuk&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🚀 What I Work With
+
+```text
+Frontend       → Vue.js • Nuxt.js • React.js • Next.js
+Backend        → Laravel • PHP • Node.js • NestJS
+Languages      → JavaScript • TypeScript • PHP
+UI             → Tailwind CSS • Vuetify • Shadcn/ui
+Database       → MySQL • PostgreSQL
+Tools          → Git • GitHub • Postman • Figma
